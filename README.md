@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é João Eduardo
+Meu nome é João Eduardo, sou professor de Pensamento computacional 👨‍🏫
 
 - estou estudando na [alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem javascript 
